@@ -1,22 +1,22 @@
 [application]
 
 # App (Project) Name
-name = "queen"
+name = "[Q♦] Dungeon of the Diamond Queen"
 
 # Dioxus App Default Platform
-# desktop, web
+# desktop, web, mobile, ssr
 default_platform = "web"
 
 # `build` & `serve` dist path
 out_dir = "dist"
 
-# resource (assets) file folder
-asset_dir = "assets"
+# resource (public) file folder
+asset_dir = "public"
 
 [web.app]
 
 # HTML title tag content
-title = "queen"
+title = "[Q♦] Dungeon of the Diamond Queen"
 
 [web.watcher]
 
@@ -24,20 +24,23 @@ title = "queen"
 reload_html = true
 
 # which files or dirs will be watcher monitoring
-watch_path = ["src", "assets"]
+watch_path = ["src", "public"]
 
 # include `assets` in web platform
 [web.resource]
 
 # CSS style file
-
-style = ["tailwind.css"]
+style = []
 
 # Javascript code file
 script = []
 
 [web.resource.dev]
 
-# Javascript code file
 # serve: [dev-server] only
+
+# CSS style file
+style = []
+
+# Javascript code file
 script = []

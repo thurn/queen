@@ -14,6 +14,9 @@ build:
 run:
     dx serve --hot-reload
 
+css:
+     npx tailwindcss -i ./input.css -o ./public/styles.css --watch
+
 test:
     cargo test
 
@@ -45,6 +48,9 @@ machete:
     cargo machete --fix
 
 remove-unused-deps: machete
+
+spriteshee:
+  spritesheet-js --format css assets/*.png
 
 @dropbox:
     find . -name '*conflicted*' -delete
