@@ -12,7 +12,7 @@ build:
     cargo build --all-targets --all-features
 
 run:
-    dx serve --hot-reload
+    dx serve --bin queen --hot-reload
 
 css:
      npx tailwindcss -i ./input.css -o ./public/styles.css --watch

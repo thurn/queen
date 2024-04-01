@@ -4,6 +4,8 @@ version = "0.0.0"
 edition = "2021"
 
 [dependencies]
+primitives = { path = "../primitives", version = "0.0.0" }
+
 console_error_panic_hook = "0.1.7"
 dioxus = { version = "0.5", features = ["web", "router"] }
 dioxus-logger = "0.4.1"
