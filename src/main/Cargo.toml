@@ -1,0 +1,11 @@
+[package]
+name = "queen"
+version = "0.0.0"
+edition = "2021"
+
+[dependencies]
+console_error_panic_hook = "0.1.7"
+dioxus = { version = "0.5", features = ["web", "router"] }
+dioxus-logger = "0.4.1"
+log = "0.4.19"
+manganis = "0.2.2"

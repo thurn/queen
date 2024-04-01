@@ -16,8 +16,7 @@
 
 use dioxus::prelude::*;
 
-const _STYLES: &str = manganis::mg!(file("public/styles.css"));
-const _CARDS: &str = manganis::mg!(file("assets/cards.png"));
+const _STYLES: &str = manganis::mg!(file("../../public/styles.css"));
 
 fn main() {
     launch(app);
