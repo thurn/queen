@@ -17,6 +17,7 @@
 use dioxus::prelude::*;
 
 const _STYLES: &str = manganis::mg!(file("public/styles.css"));
+const _CARDS: &str = manganis::mg!(file("assets/cards.png"));
 
 fn main() {
     launch(app);
@@ -63,6 +64,7 @@ pub fn app() -> Element {
                             technologies! It is functional, fast, and portable. Dioxus can run on the web, on the desktop, and
                             on mobile and embedded platforms."
                         }
+                        div { class: "card_08d" }
                         div { class: "flex justify-center",
                             button { class: "inline-flex text-white border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg derek",
                                 "Learn more"

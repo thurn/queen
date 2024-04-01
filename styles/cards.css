@@ -1,0 +1,399 @@
+.card_01c {
+    width: 32px;
+    height: 48px;
+    background: url("cards.png") -0px -0px;
+	  background-size: 320px 288px;
+}
+
+.card_01d {
+    width: 32px;
+    height: 48px;
+    background: url("cards.png") -32px -0px;
+	  background-size: 320px 288px;
+}
+
+.card_01h {
+    width: 32px;
+    height: 48px;
+    background: url("cards.png") -64px -0px;
+	  background-size: 320px 288px;
+}
+
+.card_01s {
+    width: 32px;
+    height: 48px;
+    background: url("cards.png") -0px -48px;
+	  background-size: 320px 288px;
+}
+
+.card_02c {
+    width: 32px;
+    height: 48px;
+    background: url("cards.png") -32px -48px;
+	  background-size: 320px 288px;
+}
+
+.card_02d {
+    width: 32px;
+    height: 48px;
+    background: url("cards.png") -64px -48px;
+	  background-size: 320px 288px;
+}
+
+.card_02h {
+    width: 32px;
+    height: 48px;
+    background: url("cards.png") -96px -0px;
+	  background-size: 320px 288px;
+}
+
+.card_02s {
+    width: 32px;
+    height: 48px;
+    background: url("cards.png") -96px -48px;
+	  background-size: 320px 288px;
+}
+
+.card_03c {
+    width: 32px;
+    height: 48px;
+    background: url("cards.png") -128px -0px;
+	  background-size: 320px 288px;
+}
+
+.card_03d {
+    width: 32px;
+    height: 48px;
+    background: url("cards.png") -128px -48px;
+	  background-size: 320px 288px;
+}
+
+.card_03h {
+    width: 32px;
+    height: 48px;
+    background: url("cards.png") -0px -96px;
+	  background-size: 320px 288px;
+}
+
+.card_03s {
+    width: 32px;
+    height: 48px;
+    background: url("cards.png") -32px -96px;
+	  background-size: 320px 288px;
+}
+
+.card_04c {
+    width: 32px;
+    height: 48px;
+    background: url("cards.png") -64px -96px;
+	  background-size: 320px 288px;
+}
+
+.card_04d {
+    width: 32px;
+    height: 48px;
+    background: url("cards.png") -96px -96px;
+	  background-size: 320px 288px;
+}
+
+.card_04h {
+    width: 32px;
+    height: 48px;
+    background: url("cards.png") -128px -96px;
+	  background-size: 320px 288px;
+}
+
+.card_04s {
+    width: 32px;
+    height: 48px;
+    background: url("cards.png") -160px -0px;
+	  background-size: 320px 288px;
+}
+
+.card_05c {
+    width: 32px;
+    height: 48px;
+    background: url("cards.png") -160px -48px;
+	  background-size: 320px 288px;
+}
+
+.card_05d {
+    width: 32px;
+    height: 48px;
+    background: url("cards.png") -160px -96px;
+	  background-size: 320px 288px;
+}
+
+.card_05h {
+    width: 32px;
+    height: 48px;
+    background: url("cards.png") -0px -144px;
+	  background-size: 320px 288px;
+}
+
+.card_05s {
+    width: 32px;
+    height: 48px;
+    background: url("cards.png") -32px -144px;
+	  background-size: 320px 288px;
+}
+
+.card_06c {
+    width: 32px;
+    height: 48px;
+    background: url("cards.png") -64px -144px;
+	  background-size: 320px 288px;
+}
+
+.card_06d {
+    width: 32px;
+    height: 48px;
+    background: url("cards.png") -96px -144px;
+	  background-size: 320px 288px;
+}
+
+.card_06h {
+    width: 32px;
+    height: 48px;
+    background: url("cards.png") -128px -144px;
+	  background-size: 320px 288px;
+}
+
+.card_06s {
+    width: 32px;
+    height: 48px;
+    background: url("cards.png") -160px -144px;
+	  background-size: 320px 288px;
+}
+
+.card_07c {
+    width: 32px;
+    height: 48px;
+    background: url("cards.png") -192px -0px;
+	  background-size: 320px 288px;
+}
+
+.card_07d {
+    width: 32px;
+    height: 48px;
+    background: url("cards.png") -192px -48px;
+	  background-size: 320px 288px;
+}
+
+.card_07h {
+    width: 32px;
+    height: 48px;
+    background: url("cards.png") -192px -96px;
+	  background-size: 320px 288px;
+}
+
+.card_07s {
+    width: 32px;
+    height: 48px;
+    background: url("cards.png") -192px -144px;
+	  background-size: 320px 288px;
+}
+
+.card_08c {
+    width: 32px;
+    height: 48px;
+    background: url("cards.png") -224px -0px;
+	  background-size: 320px 288px;
+}
+
+.card_08d {
+    width: 32px;
+    height: 48px;
+    background: url("cards.png") -224px -48px;
+	  background-size: 320px 288px;
+}
+
+.card_08h {
+    width: 32px;
+    height: 48px;
+    background: url("cards.png") -224px -96px;
+	  background-size: 320px 288px;
+}
+
+.card_08s {
+    width: 32px;
+    height: 48px;
+    background: url("cards.png") -224px -144px;
+	  background-size: 320px 288px;
+}
+
+.card_09c {
+    width: 32px;
+    height: 48px;
+    background: url("cards.png") -0px -192px;
+	  background-size: 320px 288px;
+}
+
+.card_09d {
+    width: 32px;
+    height: 48px;
+    background: url("cards.png") -32px -192px;
+	  background-size: 320px 288px;
+}
+
+.card_09h {
+    width: 32px;
+    height: 48px;
+    background: url("cards.png") -64px -192px;
+	  background-size: 320px 288px;
+}
+
+.card_09s {
+    width: 32px;
+    height: 48px;
+    background: url("cards.png") -96px -192px;
+	  background-size: 320px 288px;
+}
+
+.card_10c {
+    width: 32px;
+    height: 48px;
+    background: url("cards.png") -128px -192px;
+	  background-size: 320px 288px;
+}
+
+.card_10d {
+    width: 32px;
+    height: 48px;
+    background: url("cards.png") -160px -192px;
+	  background-size: 320px 288px;
+}
+
+.card_10h {
+    width: 32px;
+    height: 48px;
+    background: url("cards.png") -192px -192px;
+	  background-size: 320px 288px;
+}
+
+.card_10s {
+    width: 32px;
+    height: 48px;
+    background: url("cards.png") -224px -192px;
+	  background-size: 320px 288px;
+}
+
+.card_11c {
+    width: 32px;
+    height: 48px;
+    background: url("cards.png") -256px -0px;
+	  background-size: 320px 288px;
+}
+
+.card_11d {
+    width: 32px;
+    height: 48px;
+    background: url("cards.png") -256px -48px;
+	  background-size: 320px 288px;
+}
+
+.card_11h {
+    width: 32px;
+    height: 48px;
+    background: url("cards.png") -256px -96px;
+	  background-size: 320px 288px;
+}
+
+.card_11s {
+    width: 32px;
+    height: 48px;
+    background: url("cards.png") -256px -144px;
+	  background-size: 320px 288px;
+}
+
+.card_12c {
+    width: 32px;
+    height: 48px;
+    background: url("cards.png") -256px -192px;
+	  background-size: 320px 288px;
+}
+
+.card_12d {
+    width: 32px;
+    height: 48px;
+    background: url("cards.png") -0px -240px;
+	  background-size: 320px 288px;
+}
+
+.card_12h {
+    width: 32px;
+    height: 48px;
+    background: url("cards.png") -32px -240px;
+	  background-size: 320px 288px;
+}
+
+.card_12s {
+    width: 32px;
+    height: 48px;
+    background: url("cards.png") -64px -240px;
+	  background-size: 320px 288px;
+}
+
+.card_13c {
+    width: 32px;
+    height: 48px;
+    background: url("cards.png") -96px -240px;
+	  background-size: 320px 288px;
+}
+
+.card_13d {
+    width: 32px;
+    height: 48px;
+    background: url("cards.png") -128px -240px;
+	  background-size: 320px 288px;
+}
+
+.card_13h {
+    width: 32px;
+    height: 48px;
+    background: url("cards.png") -160px -240px;
+	  background-size: 320px 288px;
+}
+
+.card_13s {
+    width: 32px;
+    height: 48px;
+    background: url("cards.png") -192px -240px;
+	  background-size: 320px 288px;
+}
+
+.card_back01 {
+    width: 32px;
+    height: 48px;
+    background: url("cards.png") -224px -240px;
+	  background-size: 320px 288px;
+}
+
+.card_back02 {
+    width: 32px;
+    height: 48px;
+    background: url("cards.png") -256px -240px;
+	  background-size: 320px 288px;
+}
+
+.card_bottom01 {
+    width: 32px;
+    height: 48px;
+    background: url("cards.png") -288px -0px;
+	  background-size: 320px 288px;
+}
+
+.card_joker {
+    width: 32px;
+    height: 48px;
+    background: url("cards.png") -288px -48px;
+	  background-size: 320px 288px;
+}
+
+.card_shade {
+    width: 32px;
+    height: 48px;
+    background: url("cards.png") -288px -96px;
+	  background-size: 320px 288px;
+}
+
